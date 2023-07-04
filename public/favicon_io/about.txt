@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Neonderthaw
+- Font Author: Copyright 2014-2021 The Neonderthaw Project Authors (https://github.com/googlefonts/neonderthaw)
+- Font Source: http://fonts.gstatic.com/s/neonderthaw/v3/Iure6Yx5-oWVZI0r-17AeZZJprVA4XQ0.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
