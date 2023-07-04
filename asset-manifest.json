@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.2dc0116c.css",
+    "main.js": "/Portfolio/static/js/main.5d61a3e1.js",
+    "static/media/3.png": "/Portfolio/static/media/3.ced7fd76f842ac86e45a.png",
+    "static/media/5.png": "/Portfolio/static/media/5.741d42cbc19b0e7ccfc7.png",
+    "static/media/profile.png": "/Portfolio/static/media/profile.112ebb9269cabee0b266.png",
+    "static/media/2.jpg": "/Portfolio/static/media/2.fc5d3a7d7f8e954f38af.jpg",
+    "static/media/2.avif": "/Portfolio/static/media/2.242e9f2ed83cb62eda7a.avif",
+    "static/media/CV.pdf": "/Portfolio/static/media/CV.4fb8c5aac9b088ddd0b5.pdf",
+    "static/media/default-removebg-preview.png": "/Portfolio/static/media/default-removebg-preview.7db5728882f7fac4c964.png",
+    "static/media/005-line-chart.svg": "/Portfolio/static/media/005-line-chart.6c64352842e9e01bfc805ca783d82da5.svg",
+    "static/media/006-goal.svg": "/Portfolio/static/media/006-goal.c32028ea5ddd6da5373569f80d4c4ddf.svg",
+    "static/media/001-options.svg": "/Portfolio/static/media/001-options.df9269d428d240847467f11d7986fe4f.svg",
+    "static/media/004-percentage.svg": "/Portfolio/static/media/004-percentage.546eff5ce062fb0a090d64797708dfd4.svg",
+    "static/media/002-chat.svg": "/Portfolio/static/media/002-chat.ff86200b1e9db9bce78c79a1077bb428.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.2dc0116c.css.map": "/Portfolio/static/css/main.2dc0116c.css.map",
+    "main.5d61a3e1.js.map": "/Portfolio/static/js/main.5d61a3e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dc0116c.css",
+    "static/js/main.5d61a3e1.js"
+  ]
+}
